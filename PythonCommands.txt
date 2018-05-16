@@ -1,0 +1,7 @@
+Python Commands
+>python -m pip install numpy
+>python -m pip install --upgrade pip
+>python -m pip install SpeechRecognition
+>python -m pip install pocketsphinx 
+google-api-python-client
+tqdm

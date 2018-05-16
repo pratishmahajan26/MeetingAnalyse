@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meeting-analyzation",
+  "private_key_id": "fc9b455f07d4e7b972ef178640ec9ec441dd26a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCr3kmUZxY1cAyg\nadm4NcYjD54vEWGzHk9BEgdC5GxBB1jME70OfptWoYk/C8lSrc0MOoJ/dEcjpFdt\nJR7wCZzvvJ4gq4/zGfjd5u4VgAN7+/wjJumXW6x4vSmFh8bGKuwqtB2gkYROMyau\neY3ZFtMVB2KneeCebHSZN4aw3H1TOh0I/kVHs+ITFy1jrq41Yo/HMcJdFCZ3iKm8\nRWKwHV4ah16LJEkP/UYM1OWe6j/WBOjAoFaw+nba0TuEpoBSJozUa6yZfoXU2JKN\nL9RWEhZYfViEwiP3NLTa3H5gq5RhptZY2wi5Ju9F/qpZEQcUV/FYjlFukHlD0LbP\nDN2x04J3AgMBAAECggEAGFhed9plDPYYSR4gAbYBoQnJ+xotNWAqaH897r3Ij9WT\nQHqIoeWmlLjru2CCCLzRz3+iPfJMpBctbdUqSA+J3skLD879jw6zb/YRl5Nl6vQg\nx8yanh7APuzHVZY2vpoUkLVUKmCH1e6XoMiwd9CB301dLiKs11lpks0zaRjH2o1P\nCDYTA0QbUEs6J2xo6VGADHgKn2BvIZBjhqOJEawGA1Cn7EkUIhNRbhdqo6Juarpe\nrtXUlgNFPyiX9JTJ4q9uScJtzNmsh97mQ8xoaqVR0Kha/AA4ResHAzUdhFk/1iN2\nOX0QJU8KZ0yEwnDnuEo0eBOU1ZVGQLashg/Q0poZcQKBgQDqGr922/wVFvHk9xcc\n+OfOXC0diwe2Sbo5l6zvVuj7OPeqi9L/0093uk2TGs0uKPSm1naYhEJiZ+Cs9eB4\ngZiuO0cRDLE6B0fWMW5WJpPRgrgvEzPjGNkz1DPeayjjv2Jc9Zxf4z8BUdRmsy3v\nn9m4K8/UMgWZcOyfxCmU6tauFQKBgQC78WUyEB2KkfZDHJGHMAWlsg1dVyOy1xCJ\nNYQ3tq0ykTjp9zzU0JhPYJsezyDa0ob2TdP6Z9i7dSZybytCa2xUCln9NVgrRofe\n8DCQd5XATdB1rEv4heAL/Fd0/dX3Hgyc6qCVd30gD0sKqtLDE0xApj5vv0UAIArU\nAwdGSK5dWwKBgQDnxoWrcw83/hiNvUkH6TLvr3kHV9/RzVrvrEiOSbivCW7DTl4f\n5KE4A57MNuvPeMMH7ytJwyBKd1gNRf3wsTZtwciRi8RnlE++NABukREmi8o46UUk\n4TQiSUT1P5kjKxeCu7UPhliZwN+OsnWXWebfnZjNGJ1Mlm3fnAIjKwJTJQKBgQCV\nveda0+w1k8YaApEQnPpi4lIzpFIVE7VhHPqTSUEFoR8vioU1Kl2wINB246DRuBs/\n8xKJ2GOeN+DCHEDjUqOk8fpw/Cebkz5+KfEHqb/u0BDfML/26vNvmUY1OGlZ0t9J\nxsbbT7Cp8oVfomr6ck221L26WzKmvuDhuuf437/NMQKBgQCRURqqzTnf8BgH2/gR\nIBembPaloWnK5YxYxx0FckP04H1OmoLXPrho/GTyCFuGxxAHRy2uY3y/ykrJjFFx\nd9Eu643v1HqzdxoaS5A+ox2Uq+COQysu0oCNVxA2vaLHHJQ6PWZH8QUz7O4y2m+8\nQwLWrKM9HtY5LiLUO4zbGnzVIg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-recognize@meeting-analyzation.iam.gserviceaccount.com",
+  "client_id": "101791629561394989677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-recognize%40meeting-analyzation.iam.gserviceaccount.com"
+}
