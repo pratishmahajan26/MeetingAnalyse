@@ -5,3 +5,6 @@ Python Commands
 >python -m pip install pocketsphinx 
 google-api-python-client
 tqdm
+pip3 install --index-url=https://pypi.python.org/simple/ numpy
+scikit-learn
+python-dev
