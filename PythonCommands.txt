@@ -7,4 +7,9 @@ google-api-python-client
 tqdm
 pip3 install --index-url=https://pypi.python.org/simple/ numpy
 scikit-learn
-python-dev
+sudo apt-get install python-dev
+
+For scipy:
+sudo apt-get install libblas3 liblapack3 liblapack-dev libblas-dev
+sudo apt-get install gfortran
+pip3 install --index-url=https://pypi.python.org/simple/ SciPy
